@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(white,blue,purple)  no-repeat;
+    height:95vh;
+}
+.float-left
+{
+    width:500px;
+    float: left;
+    padding-left: 70px;
+    margin-right: 10px;
+}
+.float-right
+{
+    width: 750px;
+    float:right;
+}
+#mumbai,#delhi,#jaipur,#hyderabad
+{
+   
+    color:aliceblue;
+}
+iframe
+{
+    border-radius: 20px;
+    border-width:5px;
+}
+h1{
+    color:darkblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+}
+h4{
+    color: aliceblue;
+   
+}
